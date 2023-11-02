@@ -23,6 +23,6 @@ This project demonstrated the application of deep learning techniques for classi
 
 Feel free to explore the provided code and visualize the results! 🚀
 
-Follow me on LinkedIn: [Vidhi Waghela](https://www.linkedin.com/in/vidhi-waghela-434663198/)
-Kaggle: [Vidhi Kishor Waghela](https://www.kaggle.com/vidhikishorwaghela)
+Follow me on LinkedIn: [Vidhi Waghela](https://www.linkedin.com/in/vidhi-waghela-434663198/) \\
+Kaggle: [Vidhi Kishor Waghela](https://www.kaggle.com/vidhikishorwaghela) \\
 GitHub: [Vidhi1290](https://github.com/Vidhi1290)
